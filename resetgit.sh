@@ -16,7 +16,7 @@ printf "\n.love> git add ."
 
 git add .
 
-printf "\n.love> git commit -m \"feature. added node.js + es5 project scaffold to source control.\"\n\n"
+printf "\n\n.love> git commit -m \"feature. added node.js + es5 project scaffold to source control.\"\n\n"
 
 git commit -m "feature. added node.js + es5 project scaffold to source control."
 
