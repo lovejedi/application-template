@@ -11,9 +11,10 @@ npm install -g yarn
 ```
 
 ## install
+* note: replace `project-name` with desired project name
 ```
-git clone https://github.com/raydecastro/node-es5-tdd.git
-cd node-es5-tdd
+git clone https://github.com/raydecastro/node-es5-tdd.git project-name
+cd project-name
 yarn
 ```
 
@@ -27,6 +28,12 @@ npm test
 npm start
 ```
 * navigate to: `http://localhost:8080`
+
+## git
+* run the script below to wipe out previous git history, initialize new repo, and commit project scaffold:
+```
+./resetgit.sh
+```
 
 ## technologies
 * javascript / es5
