@@ -4,7 +4,7 @@ node.js + es5 project scaffold for tdd
 ## developer machine setup
 * install [nvm], [npm], [yarn]
 ```
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh | bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
 nvm install v7.2.0
 npm install -g npm
 npm install -g yarn
@@ -32,6 +32,7 @@ npm start
 * javascript / es5
 * mocha + chai
 * node + npm + yarn
+* http-server
 
 ## license
 MIT
