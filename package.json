@@ -1,6 +1,6 @@
 {
   "name": "node-es5-tdd",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "node.js + es5 project scaffold for tdd",
   "main": "main.js",
   "scripts": {
