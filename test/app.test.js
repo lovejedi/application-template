@@ -1,7 +1,7 @@
 'use strict';
 
 var assert = require('chai').assert;
-var App = require('../app/scripts/app.js');
+var App = require('../source/javascript/app.js');
 
 describe('App', function () {
     it('should exist', function () {

@@ -1,14 +1,14 @@
 {
-  "name": "application-template",
+  "name": "node-es5-tdd",
   "version": "0.0.0",
-  "description": "Application Template",
-  "main": "index.js",
+  "description": "node.js + es5 project scaffold for tdd",
+  "main": "main.js",
   "scripts": {
     "test": "mocha",
     "destroy": "mocha test --recursive --watch"
   },
-  "author": "lovejedi",
-  "license": "ISC",
+  "author": "raydecastro",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
