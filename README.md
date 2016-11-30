@@ -22,6 +22,12 @@ yarn
 npm test
 ```
 
+## run
+```
+npm start
+```
+* navigate to: `http://localhost:8080`
+
 ## technologies
 * javascript / es5
 * mocha + chai

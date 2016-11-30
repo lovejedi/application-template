@@ -4,6 +4,7 @@
   "description": "node.js + es5 project scaffold for tdd",
   "main": "main.js",
   "scripts": {
+    "start": "http-server ./source",
     "test": "mocha",
     "destroy": "mocha test --recursive --watch"
   },
@@ -12,5 +13,8 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0"
   }
 }
